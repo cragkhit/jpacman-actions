@@ -1,6 +1,6 @@
 # JPacman
 
-![Build Status](https://github.com/cragkhit/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
+[![JPacman CI with Gradle](https://github.com/cragkhit/jpacman-actions/actions/workflows/myworkflow.yml/badge.svg)](https://github.com/cragkhit/jpacman-actions/actions/workflows/myworkflow.yml)
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
 
